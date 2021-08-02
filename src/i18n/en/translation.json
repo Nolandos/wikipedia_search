@@ -1,0 +1,14 @@
+{
+  "Common": {
+    "title": "wikipedia_search"
+  },
+
+  "WikipediaSearchEngine": {
+    "SearchInputPlaceholder": "Search",
+    "ReplaceWithInputPlaceholder": "Replace with",
+    "SearchButton": "Search",
+    "ReplaceButton": "Replace",
+    "ReplaceAllButton": "Replace All",
+    "NoResults": "No Results"
+  }
+}
